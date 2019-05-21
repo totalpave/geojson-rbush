@@ -1,5 +1,5 @@
 {
-  "name": "geojson-rbush",
+  "name": "@totalpave/geojson-rbush",
   "version": "3.1.1",
   "description": "GeoJSON implementation of RBush",
   "main": "index",
@@ -41,9 +41,9 @@
     "write-json-file": "*"
   },
   "dependencies": {
-    "@turf/bbox": "*",
-    "@turf/helpers": "6.x",
-    "@turf/meta": "6.x",
+    "@totalpave/bbox": "*",
+    "@totalpave/helpers": "*",
+    "@totalpave/meta": "*",
     "rbush": "^2.0.0"
   }
 }
