@@ -29,8 +29,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@turf/bbox-polygon": "*",
-    "@turf/random": "*",
+    "@spatial/bbox-polygon": "*",
+    "@spatial/random": "*",
     "@types/node": "*",
     "benchmark": "*",
     "documentation": "*",
@@ -41,9 +41,9 @@
     "write-json-file": "*"
   },
   "dependencies": {
-    "@totalpave/bbox": "*",
-    "@totalpave/helpers": "*",
-    "@totalpave/meta": "*",
+    "@spatial/bbox": "*",
+    "@spatial/helpers": "*",
+    "@spatial/meta": "*",
     "rbush": "^2.0.0"
   }
 }
